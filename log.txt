@@ -1,0 +1,44 @@
+nohup: ignoring input
+:tilde.town NOTICE * :*** Looking up your hostname...
+:tilde.town NOTICE * :*** Checking Ident
+:tilde.town NOTICE * :*** No Ident response
+:tilde.town NOTICE * :*** Found your hostname
+:tilde.town 001 rufus :Welcome to the tilde.club Internet Relay Chat Network rufus
+:tilde.town 002 rufus :Your host is tilde.town[tilde.town/6667], running version charybdis-3.5.0
+:tilde.town 003 rufus :This server was created Wed Feb 17 22:23:45 UTC 2016
+:tilde.town 004 rufus tilde.town charybdis-3.5.0 DQRSZagiloswz CFILPQbcefgijklmnopqrstvz bkloveqjfI
+:tilde.town 005 rufus FNC CPRIVMSG CNOTICE ETRACE WHOX MONITOR=100 SAFELIST ELIST=CTU KNOCK CHANTYPES=&# EXCEPTS INVEX :are supported by this server
+:tilde.town 005 rufus CHANMODES=eIbq,k,flj,CFLPQcgimnprstz CHANLIMIT=&#:15 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=tilde.club STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 NICKLEN=31 MAXNICKLEN=31 CHANNELLEN=50 :are supported by this server
+:tilde.town 005 rufus TOPICLEN=390 DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: CLIENTVER=3.0 :are supported by this server
+:tilde.town 251 rufus :There are 0 users and 119 invisible on 1 servers
+:tilde.town 254 rufus 37 :channels formed
+:tilde.town 255 rufus :I have 119 clients and 0 servers
+:tilde.town 265 rufus 119 122 :Current local users 119, max 122
+:tilde.town 266 rufus 119 122 :Current global users 119, max 122
+:tilde.town 250 rufus :Highest connection count: 122 (122 clients) (2066 connections received)
+:tilde.town 375 rufus :- tilde.town Message of the Day - 
+:tilde.town 372 rufus :- This is charybdis MOTD you might replace it, but if not your friends will
+:tilde.town 372 rufus :- laugh at you.
+:tilde.town 376 rufus :End of /MOTD command.
+:rufus MODE rufus :+i
+:rufus!~rufus@localhost JOIN #rufus
+:tilde.town 353 rufus = #rufus :rufus @marcus
+:tilde.town 366 rufus #rufus :End of /NAMES list.
+:marcus!~marcus@localhost PRIVMSG #rufus :!join #bots,#tildetown
+:rufus!~rufus@localhost JOIN #bots
+:tilde.town 353 rufus = #bots :rufus deltawitch minerbot tracer pinhook login banterbot topicbot tildebot tehfraga archangelic cosnok wangofett nilaky ubergeek spellbot unreal quote_bots karlen audiodude_afk sl2c equa kelpiebot silver tildethief minerobber marcus erin abraxas troido caff caffbot sotdbot krowhome gamebot vilmibm desvox
+:tilde.town 366 rufus #bots :End of /NAMES list.
+:rufus!~rufus@localhost JOIN #tildetown
+:tilde.town 332 rufus #tildetown :all aboard the feels train
+:tilde.town 333 rufus #tildetown vilmibm!~vilmibm@localhost 1521048755
+:tilde.town 353 rufus = #tildetown :rufus Halian nincollin deltawitch cwmccabe minerbot dustin acab tracer troublemoney pinhook mdm login deepend banterbot hyrb m455 kc sacredpixel topicbot tripoli @l0010o0001l @opbot tehfraga @archangelic demophoon cosnok herschel ne1 florrie quine wangofett nilaky ubergeek tahnok polaris instrud whimsy mushmouth spellbot unreal dactyl rbiv kiith bowlercaptain deejoe quote_bot feoh wallflower @karlen hashdang meowtastic lily sl2c kelpiebot equa xkeeper canadaduane
+:tilde.town 353 rufus = #tildetown :silver mhj wuz erin mag resir014 tef petit-dejeuner rmo jea frs slash bootsy thegiant anarchastronomer sinacutie joniwoni minerobber lucidiot tude breshonegen bitbyte paladinjack miwilc stark nydel mio slime sebboh audiodude_afk tsuki emv curiouser sotdbot caff ssteinbr greely nikolojedison krowhome robrtsql jumblesale endorphant abraxas selsky variscite marcus gamebot desvox elly aeon troido @vilmibm
+:tilde.town 366 rufus #tildetown :End of /NAMES list.
+:marcus!~marcus@localhost PRIVMSG #tildetown :!nick rufus[bot]
+:rufus!~rufus@localhost NICK :rufus[bot]
+:marcus!~marcus@localhost PRIVMSG #tildetown :!tarot
+:marcus!~marcus@localhost PRIVMSG #tildetown :All good
+:marcus!~marcus@localhost PRIVMSG #tildetown :Code is messy, of course, but it works.
+:polaris!~polaris@localhost PRIVMSG #tildetown :!!edict | !toot :book:
+:tracer!~tracer@localhost PRIVMSG #tildetown :!toot :book: (Decree 1.4i) No fighting in alleys.
+:pinhook!~pinhook@localhost PRIVMSG #tildetown 
