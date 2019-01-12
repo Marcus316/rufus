@@ -1,6 +1,7 @@
 @include "util.awk"
 @include "irc.awk"
 @include "tarot.awk"
+@include "rgame.awk"
 BEGIN {
   Service = "/inet/tcp/0/localhost/6667"
   user = "rufus"
