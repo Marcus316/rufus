@@ -104,7 +104,7 @@ function initdeck() {
   tarotdesc["28,0"]="walking away, disillusionment, leaving behind"
   tarotdesc["28,1"]="avoidance, fear of change, fear of loss"
   tarotcard[29]="The Seven of Cups"
-  tarotdesc["29,0"]="earching for purpose, choices, daydreaming"
+  tarotdesc["29,0"]="searching for purpose, choices, daydreaming"
   tarotdesc["29,1"]="lack of purpose, diversion, confusion"
   tarotcard[30]="The Six of Cups"
   tarotdesc["30,0"]="familiarity, happy memories, healing"
